@@ -1,0 +1,65 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+} */
+body{
+  width: 500px;
+  margin: 0 auto;
+  background: url(images/background.png);
+}
+#main_container{
+  background: black;
+  text-align: center;
+}
+#content_container{
+  color: white;
+}
+td{
+  text-align:left;
+}
+table{
+  margin: 0 auto;
+  background: rgb(66, 59, 59);
+  width: 500px;
+}
+#main_name{
+  background: black;
+  color: white;
+}
+#image{
+  width: 120px;
+  border-radius: 50%;
+}
+button{
+  border: 1px solid grey;
+  padding: 10px;
+  margin: 20px;
+  font-size:  15px;
+  font-weight: bold;
+}
+#main_heading{
+  text-align: center;
+  background: rgb(24, 24, 24);
+  font-size: 25px;
+}
+#project{
+  text-align: center;
+}
